@@ -5,7 +5,6 @@
 #
 
 # no trailing slash
-baseurl: /ruby-port
 
 # for header and meta tags
 title: Rohan Prasad
