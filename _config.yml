@@ -5,8 +5,7 @@
 #
 
 # no trailing slash
-url: rohanp9000.github.io
-baseurl: /
+baseurl: /ruby-port
 
 # for header and meta tags
 title: Rohan Prasad
