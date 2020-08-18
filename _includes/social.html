@@ -1,0 +1,24 @@
+<div class="sharebuttons">
+    <ul>
+      <li>
+        <p class="sharetitle"> Find me on: </p>
+      </li>
+      <li class="github">
+        <a href="http://www.github.com/rohanp9000"" | uri_escape }}" target="_blank">
+          {% include social/github.svg %}
+        </a>
+      </li>
+     <li class="twitter">
+        <a href="https://twitter.com/intent/tweet?via=USERNAME&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" target="_blank">
+          {% include social/twitter.svg %}
+        </a>
+      </li>
+      <li class="linkedin">
+        <a href="https://www.linkedin.com/in/rohan-prasad-31ba97191/"" | uri_escape}}" target="_blank">
+          {% include social/linkedin.svg %}
+        </a>
+      </li>
+    </ul>
+    <p class="copy"> © Rohan Prasad 2020 </p>
+
+  </div>
