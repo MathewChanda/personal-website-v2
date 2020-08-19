@@ -192,15 +192,30 @@ img {
 
 .sharebuttons .github svg {
   fill: #0455A4;
+  -webkit-transition: fill .4s ease;
+}
+
+.sharebuttons .github svg:hover {
+  fill: #E84A27;
 }
 
 .sharebuttons .twitter svg {
   fill: #0455A4;
+  -webkit-transition: fill .4s ease;
 }
 
+.sharebuttons .twitter svg:hover {
+  fill: #E84A27;
+}
 .sharebuttons .linkedin svg {
   fill: #0455A4;
+  -webkit-transition: fill .4s ease;
 }
+
+.sharebuttons .linkedin svg:hover {
+  fill: #E84A27;
+}
+
 
 //Section title and content
 // other-project
