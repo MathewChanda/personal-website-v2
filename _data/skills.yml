@@ -1,0 +1,20 @@
+languages:
+  - item: JavaScript
+  - item: TypeScript
+  - item: Python
+  - item: Java
+  - item: C/C++
+
+frameworks:
+  - item: Node
+  - item: React
+  - item: Jekyll
+
+tools:
+  - item: Git
+  - item: Postman
+  - item: MongoDB
+
+libraries:
+  - item: ROS
+  - item: Puppeteer

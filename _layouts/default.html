@@ -22,5 +22,15 @@
 {% include greeting.html %}
 {% endif %}
 
+
+{% if page.url == "/projects" %}
+{% include projects.html %}
+{% endif %}
+
 {{ content }}
+
+{% if page.url == "/about" %}
+{% include skills.html %}
+{% endif %}
+
 {% include social.html %}

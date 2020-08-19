@@ -19,6 +19,9 @@ nav-links:
   - name: About
     url: /about
     external: false
+  - name: Projects
+    url: /projects
+    external: false
   - name: Blog
     url: /blog
     external: false
@@ -32,7 +35,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Rohan. Thanks for visiting my site!
+greeting_text: Hey, I'm Rohan.
 
 # show blog post excerpts on blog page
 show_excerpts: false

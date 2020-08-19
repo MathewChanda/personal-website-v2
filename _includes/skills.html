@@ -1,0 +1,41 @@
+<section class="section skills">
+    <div class="section__title">Tech Stack</div>
+    <div class="section__content">
+      <div class="skillz">
+        <div class="skillz__category">
+          <div class="skillz__category__label">Languages</div>
+          <ul style="list-style-type:none;">
+            {% for language in site.data.skills.languages %}
+            <li class="skillz__category__item">{{language.item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="skillz__category">
+          <div class="skillz__category__label">Frameworks</div>
+          <ul style="list-style-type:none;">
+            {% for framework in site.data.skills.frameworks %}
+            <li class="skillz__category__item">{{framework.item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="skillz__category">
+          <div class="skillz__category__label">Tools</div>
+          <ul style="list-style-type:none;">
+            {% for tool in site.data.skills.tools %}
+            <li class="skillz__category__item">{{tool.item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="skillz__category">
+          <div class="skillz__category__label">Libraries</div>
+          <ul style="list-style-type:none;">
+            {% for thing in site.data.skills.libraries %}
+            <li class="skillz__category__item">{{thing.item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  
+  </section>
+  <p>You can find my resume <a href="/assets/site-resume.pdf"> here</a>, or  <a href="/contact">contact me.</a></p>
