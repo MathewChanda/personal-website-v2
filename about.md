@@ -10,7 +10,7 @@ Fast forward a year, and I've wrapped up my internship and passing time before t
 
 So, I created this; to both document myself, and some projects that I'll be working on in the next few months while COVID is still rampant.
 
-If you'd like to keep up with some projects that I've been working on, you can find them [here](/projects), or among the tabs up top.
+If you'd like to keep up with some projects that I've been working on, you can find them [here](/experience), or among the tabs up top.
 
 ---
 <p>&nbsp;</p>

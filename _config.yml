@@ -19,8 +19,8 @@ nav-links:
   - name: About
     url: /about
     external: false
-  - name: Projects
-    url: /projects
+  - name: Experience
+    url: /experience
     external: false
   - name: Blog
     url: /blog
