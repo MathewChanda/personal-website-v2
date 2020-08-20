@@ -37,7 +37,7 @@
 - name: MODIS Cloud Segmentation
   url: https://github.com/rohanp9000/modis-cloud-detection
   code: https://github.com/rohanp9000/modis-cloud-detection
-  description: This project explores the usage of machine learning methods on identifying instances of clouds (pixel level) on Satellite images from the MODIS satellite cluster. This project won best model at <a class="underline-link" href="http://www.ncsa.illinois.edu/enabling/data/deep_learning/news/2020_ai_hack_3" target="_blank">NCSA Nvidia Hackathon III</a>.
+  description: This project explores the usage of machine learning methods on identifying instances of clouds (pixel level) on Satellite images from the MODIS satellite cluster. This project won best model at <a href="http://www.ncsa.illinois.edu/enabling/data/deep_learning/news/2020_ai_hack_3" target="_blank">NCSA Nvidia Hackathon III</a>.
   used:
     - thing: Python
     - thing: Jupyter Notebook
