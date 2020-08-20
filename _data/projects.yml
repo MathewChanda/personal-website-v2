@@ -10,8 +10,8 @@
 
 
 - name: Spotify Jukebox
-  url: /
-  code: /
+  url: https://github.com/rohanp9000/spotify-queue-client
+  code: https://github.com/rohanp9000/spotify-queue-client
   description: Created a web application and back-end to enable song-queueing to a central player from any device. Wrote headless browser script to enable hourly spotify authorization token refresh to avoid manual token refreshing.
   used:
     - thing: React.JS
