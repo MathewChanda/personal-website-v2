@@ -96,6 +96,17 @@ a:active {
   color: lighten($accent-color, 10%);
 }
 
+.nvidia:hover,
+.nvidia:active {
+  color: lighten(#7AB547, 10%);
+}
+
+.squarespace:hover,
+.squarespace:active {
+  color: lighten(#2c3cd1, 10%);
+
+}
+
 // images~
 img {
   max-width: 100%;
