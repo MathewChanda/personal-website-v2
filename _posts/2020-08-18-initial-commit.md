@@ -4,7 +4,7 @@ title: Initial Commit
 
 Hey, thanks for visiting my blog. 
 
-I'm Rohan, a Computer Engineering at the University of Illinois at Urbana-Champaign.
+I'm Rohan, a Computer Engineering student at the University of Illinois at Urbana-Champaign.
 
 This blog post is more or less an initial commit; minimum workings for a viable product. I hope to add more meaningful
 projects in the coming months.

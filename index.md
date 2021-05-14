@@ -6,11 +6,12 @@ I study Computer Engineering at [The University of Illinois at Urbana-Champaign]
 
 ##  What I'm up to
 
-I'm currently interning on the NVLink & GPU interconnect team at 
-<a href="https://www.nvidia.com" class = 'nvidia'>NVIDIA</a>, and I'm headed to 
-<a href="https://www.squarespace.com" class = 'squarespace'>Squarespace</a> this summer as a Back-end Engineering Intern.
 
-I'm also probably writing something in x86 or Haskell in attempts to learn about operating systems and program language interpretation.
+Previously, I was at
+<a href="https://www.nvidia.com" class = 'nvidia'>NVIDIA</a> working on GPU architecture (primarily NVLINK).
+
+I'll be working on Core Services at
+<a href="https://www.squarespace.com" class = 'squarespace'>Squarespace</a> this summer, and will be in Chicago at <a href="https://www.citadel.com" class = 'citadel'>Citadel</a> in the fall.
 
 During the school year, I'm an Undergraduate Researcher at the [Intelligent Motion Laboratory](https://motion.cs.illinois.edu){:target="_blank"}, where I write software to enable autonomous actions and decisions for our nursing robot. We're competing in an XPRIZE competition through 2022; you can read more about it [here](https://avatar.xprize.org/prizes/avatar){:target="_blank"}! 
 
@@ -18,12 +19,11 @@ During the school year, I'm an Undergraduate Researcher at the [Intelligent Moti
 
 ## What's next for me?
 
-Great question. Usually, I couldn't tell you, but here's a list of things I'm aiming to achieve before 2021:
+Great question. Usually, I couldn't tell you, but here's a list of things I'm aiming to achieve before 2022:
 
-* Absorb as much as I can from my two internships
-* Build an Operating System from scratch
-* Write a unification-based type inferencer
-* See the end of Covid (one can only hope)
+* Build an Operating System from scratch ✔️ 
+* Write a unification-based type inferencer ✔️ 
+* Learn to dunk on a 10ft rim
 
 Last Year's List: 
 * Do better than average in [ECE 210](./assets/hahaece210funny.png){:target="_blank"} ✔️ (well, I passed, so it's a W in my book)

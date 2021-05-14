@@ -20,7 +20,12 @@
                         {% if link.external != true %}
                         <a href="{{ link.url | prepend:site.url }}">
                         {% endif %}
-                            {{ link.name }}
+                        {% if link.name != "About" %}
+                            {% if link.name != "Blog" %}
+                                {{ link.name }}
+                            {% endif %}
+                        {% endif %}
+
                         </a>
                     </li>
                     {% endfor %}

@@ -1,12 +1,18 @@
+- company: Citadel 
+  url: https://www.citadel.com/
+  time: Fall '21
+  position: Incoming Software Engineering Intern
+
+
 - company: Squarespace
   url: https://www.squarespace.com/
-  time: Summer '21
-  position: Incoming Software Engineering Intern
+  time: May '21 - Present
+  position: Software Engineering Intern
 
 - company: NVIDIA
   url: https://www.nvidia.com/
-  time: Spring '21
-  position: Incoming Software Engineering Intern
+  time: Feb - May '21
+  position: Software Engineering Intern
 
 - company: Woven Money
   url: https://www.wovenmoney.com/

@@ -2,7 +2,7 @@
 title: Get in touch!
 ---
 
-rprasad3 at illinois.edu
+rprasad3[at]illinois[dot]edu
 
 Alternatively, you could connect with me on the socials listed below. 
 

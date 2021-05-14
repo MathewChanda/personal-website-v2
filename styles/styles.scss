@@ -107,6 +107,12 @@ a:active {
 
 }
 
+.citadel:hover,
+.citadel:active {
+  color: lighten(#003366, 10%);
+
+}
+
 // images~
 img {
   max-width: 100%;
